@@ -1,0 +1,1 @@
+let yourArray = ['vitalik', 14, true, null, undefined]; // Change this line
